@@ -1,0 +1,7 @@
+// the configured options and settings for testing project
+
+#cmakedefine USE_MYLIB
+
+#define testing_VERSION_MAJOR @testing_VERSION_MAJOR@
+
+#define testing_VERSION_MINOR @testing_VERSION_MINOR@
